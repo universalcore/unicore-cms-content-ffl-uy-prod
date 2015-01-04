@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "No entran\u0303a riesgo alguno vacunar a un nin\u0303o que presenta malnutricio\u0301n, una afeccio\u0301n leve o una discapacidad.", 
+  "language": "spa_ES", 
+  "title": "No entran\u0303a riesgo alguno vacunar a un nin\u0303o que presenta malnutricio\u0301n, una afeccio\u0301n leve o una discapacidad.", 
+  "primary_category": "1990aa14a01d4b39b3c56399f31c135a", 
+  "created_at": "2015-01-04T17:23:42.075122+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-04T17:23:42.075317+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Muchos progenitores no hacen vacunar a sus hijos con el argumento de que tienen fiebre, tos, catarro, diarrea u otra afeccio\u0301n leve. Sin embargo, vacunar a los nin\u0303os cuando tienen una enfermedad de menor importancia no entran\u0303a riesgo alguno.\r\n\r\nLos nin\u0303os que sufren de desnutricio\u0301n o que tienen alguna discapacidad tambie\u0301n se deben inmunizar. Si se sabe, o se sospecha, que el nin\u0303o es VIH positivo, hay que consultar con un agente de salud sobre las vacunas que conviene aplicarle.\r\n\r\nEs posible que despue\u0301s de inyectarle la vacuna, el nin\u0303o llore o presente fiebre, un pequen\u0303o sarpullido o una leve ulceracio\u0301n. Esto es normal e indica que la vacuna esta\u0301 actuando. Despue\u0301s de la vacunacio\u0301n, los lactantes menores de 6 meses deben amamantarse con frecuencia; los nin\u0303os de ma\u0301s edad deben ingerir abundantes li\u0301quidos y alimentos. Si la fiebre es superior a 38 grados centi\u0301grados, un trabajador sanitario capacitado debe examinar al nin\u0303o.\r\n\r\nEl sarampio\u0301n es sumamente peligroso para los nin\u0303os que esta\u0301n malnutridos y, ma\u0301s que todo, para los que sufren de desnutricio\u0301n grave. Por esta razo\u0301n, es urgente vacunarlos contra esta enfermedad.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "no-entran-riesgo-alguno-vacunar-un-nino-que-presenta-malnutricion-una-afeccion-leve-o-una-discapacidad", 
+  "uuid": "4ce098f0c0ea420b999c4ed2030a869e"
+}
