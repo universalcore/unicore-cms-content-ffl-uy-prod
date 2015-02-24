@@ -6,12 +6,12 @@
   "primary_category": "2564f42489664e1da6236da40027989a", 
   "created_at": "2014-12-26T15:13:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-26T15:19:22.817037+00:00", 
+  "modified_at": "2015-02-24T17:47:42.410792+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "cada-embarazo-es-unicotodas-las-mujeres-que-esperan-un-hijo-deben-asistir-al-menos-cuatro-visitas-prenatales-para-vigilar-la-evolucion-de-su-embarazo-y-evitar-correr-riesgostanto-ellas-como-su", 
   "uuid": "f54587ead7fb4ca695d50c2c99bf76af"
