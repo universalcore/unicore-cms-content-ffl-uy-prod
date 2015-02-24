@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Se debe utilizar una jeringa nueva para cada persona que se vacuna, y todo el mundo\r\ndebe exigir que este requisito se cumpla.", 
+  "description": "En condiciones de hacinamiento, las enfermedades se propagan a gran velocidad.\r\nTodos los ni\u00f1os y las ni\u00f1as que viven en estas condiciones, sobre todo si son\r\nrefugiados o han sufrido un desastre, deben ser inmunizados de inmediato,\r\nespecialmente contra el sarampi\u00f3n.", 
   "language": "spa_ES", 
-  "title": "Se debe utilizar una jeringa nueva para cada persona que se vacuna, y todo el mundo debe exigir que este requisito se cumpla.", 
+  "title": "En condiciones de hacinamiento, las enfermedades se propagan a gran velocidad. Todos los ni\u00f1os y las ni\u00f1as que viven en estas condiciones, sobre todo si son refugiados o han sufrido un desastre, deben", 
   "primary_category": "d54cc05a9ab94ef3a04d145353093040", 
-  "created_at": "2015-02-24T20:48:30.896408+00:00", 
+  "created_at": "2015-02-24T20:48:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T20:48:30.896653+00:00", 
+  "modified_at": "2015-02-24T20:57:54.301159+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,6 +24,6 @@
   "published": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "se-debe-utilizar-una-jeringa-nueva-para-cada-persona-que-se-vacuna-y-todo-el-mundo-debe-exigir-que-este-requisito-se-cumpla", 
+  "slug": "en-condiciones-de-hacinamiento-las-enfermedades-se-", 
   "uuid": "d0a777ec602b41d8938c8d14fb7cfaf1"
 }
