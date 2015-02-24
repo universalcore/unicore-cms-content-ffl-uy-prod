@@ -6,12 +6,12 @@
   "primary_category": "5c1cd66262c948baa97e0d35235bb2c4", 
   "created_at": "2015-01-04T20:20:29.175841+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-04T20:20:29.176062+00:00", 
+  "modified_at": "2015-02-24T18:40:06.235352+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "desechar-los-residuos-del-hogar-de-forma-segura-contribuye-mantener-el-entorno-del-hogar-limpio-y-saludable-lo-cual-ayuda-prevenir-las-enfermedades", 
   "uuid": "4c794a2ac6e44db1ab60596416cb9e8f"
