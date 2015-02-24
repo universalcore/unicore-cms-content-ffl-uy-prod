@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "c2475be24aad4e6fadd7bb8e80135ee2", 
   "language": "spa_ES", 
-  "title": "La tos, los catarros y otras enfermedades ma\u0301s graves", 
+  "title": "La tos, los catarros y otras enfermedades m\u00e1s graves", 
   "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "la-tos-los-catarros-y-otras-enfermedades-mas-graves", 
