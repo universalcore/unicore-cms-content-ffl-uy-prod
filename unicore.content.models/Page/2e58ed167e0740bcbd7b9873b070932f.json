@@ -6,12 +6,12 @@
   "primary_category": "68c265ad068f4049ad4a208dbc81660b", 
   "created_at": "2015-02-24T20:03:50.680851+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T20:06:08.643599+00:00", 
+  "modified_at": "2015-02-24T20:09:55.762715+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "el-paludismo-supone-un-grave-peligro-para-las-mujeres-embarazadas-si-el-paludismo-es-habitual-es-preciso-prevenirlo-tomando-pastillas-antipaludicas-prescritas-por-un-trabajador-sanitario-capacitado", 
   "uuid": "2e58ed167e0740bcbd7b9873b070932f"
