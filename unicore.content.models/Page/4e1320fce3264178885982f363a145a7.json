@@ -6,12 +6,12 @@
   "primary_category": "90b731c7f82f4d87afd7f0da83b20d18", 
   "created_at": "2014-12-26T13:40:57.339160+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T17:46:47.866226+00:00", 
+  "modified_at": "2015-02-24T18:18:08.069703+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "para-preservar-la-salud-de-la-madre-y-el-recien-nacido-es-aconsejable-que-transcurran-dos-os-entre-el-nacimiento-del-ultimo-hijo-y-el-comienzo-del-siguiente-embarazo", 
   "uuid": "4e1320fce3264178885982f363a145a7"
