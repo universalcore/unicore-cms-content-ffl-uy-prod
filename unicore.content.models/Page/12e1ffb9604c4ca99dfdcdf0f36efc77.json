@@ -6,12 +6,12 @@
   "primary_category": "016cd27155064bbe978b857a25a3ac5d", 
   "created_at": "2015-01-02T15:34:46.755564+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-02T15:34:46.755963+00:00", 
+  "modified_at": "2015-02-24T18:27:07.441375+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "las-comidas-deben-ser-momentos-de-aprendizaje-afecto-y-contacto-con-la-familia-para-que-no-solo-contribuyan-al-desarrollo-fisico-del-nino-sino-tambien-su-desarrollo-social-y-emocional-el-proge", 
   "uuid": "12e1ffb9604c4ca99dfdcdf0f36efc77"
