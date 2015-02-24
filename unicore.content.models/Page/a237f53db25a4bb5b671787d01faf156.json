@@ -6,12 +6,12 @@
   "primary_category": "c8f7611c01274001a863fbc6c0b3b216", 
   "created_at": "2015-01-05T12:50:42.569286+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-05T12:50:42.569473+00:00", 
+  "modified_at": "2015-02-24T18:51:22.609059+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "los-ninos-y-nin-de-corta-edad-corren-peligro-en-las-vi-de-circulacion-o-sus-cercani-no-deben-jugar-en-estos-lugares-y-siempre-deberi-haber-un-adulto-con-ellos-cuando-se-hallen-cerca-de", 
   "uuid": "a237f53db25a4bb5b671787d01faf156"
