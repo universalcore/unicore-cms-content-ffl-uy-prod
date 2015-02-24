@@ -6,12 +6,12 @@
   "primary_category": "f7530af2e7384c7095b65f2139c969d4", 
   "created_at": "2015-01-05T12:35:38.174947+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-05T12:35:38.175204+00:00", 
+  "modified_at": "2015-02-24T18:53:33.715176+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "es-preciso-proteger-los-ninos-y-nin-frente-cualquier-tipo-de-trabajo-que-sea-peligroso-los-ninos-y-nin-nunca-deberi-participar-en-las-peores-formas-de-trabajo-infantil-como-la-esclavit", 
   "uuid": "8cece93356534ebaae5e2eee5a22e5fc"
