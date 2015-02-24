@@ -6,12 +6,12 @@
   "primary_category": "ec4f959214214ddc8612b6d0a6e90060", 
   "created_at": "2015-01-01T22:09:36.191764+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T17:48:23.544444+00:00", 
+  "modified_at": "2015-02-24T18:21:32.139776+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "alentar-los-ninos-jugar-y-explorar-el-entorno-es-provechoso-para-su-aprendizaje-y-su-desarrollo-social-emocional-fisico-e-intelectual-y-constituye-una-buena-preparacion-para-la-escuela", 
   "uuid": "afb80783b7024167adbb66a8342d1d78"
