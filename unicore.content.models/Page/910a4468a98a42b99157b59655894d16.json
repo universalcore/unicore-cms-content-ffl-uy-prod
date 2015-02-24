@@ -6,12 +6,12 @@
   "primary_category": "96e250d51b0c4a28ade4c73ff556bd3e", 
   "created_at": "2015-01-04T20:55:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:49:01.434511+00:00", 
+  "modified_at": "2015-02-24T18:50:20.461578+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "los-ninos-y-nin-y-los-adolescentes-deberi-participar-activamente-en-la-creacion-y-puesta-en-practica-de-decisiones-que-les-afectan-ellos-mismos-sus-familias-y-sus-comunidades-sobre-l", 
   "uuid": "910a4468a98a42b99157b59655894d16"
