@@ -6,12 +6,12 @@
   "primary_category": "016cd27155064bbe978b857a25a3ac5d", 
   "created_at": "2015-01-02T15:37:24.733339+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-02T15:37:24.733546+00:00", 
+  "modified_at": "2015-02-24T18:27:07.322052+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "los-ninos-necesitan-vitamina-para-resistir-las-enfermedades-proteger-su-vision-y-disminuir-el-riesgo-de-muerte-esta-vitamina-se-encuentra-en-muchas-frutas-y-verduras-en-el-aceite-de-palma-roja", 
   "uuid": "32c6d9f128664928940e3bd89e5fed7f"
