@@ -6,12 +6,12 @@
   "primary_category": "5f8b0bde4c0b41259dae1fde11f4bd34", 
   "created_at": "2015-01-05T16:13:50.901889+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-05T16:13:50.902297+00:00", 
+  "modified_at": "2015-02-24T18:59:01.149642+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "las-minas-terrestres-y-los-artefactos-sin-detonar-son-extremadamente-peligrosos-pueden-estallar-y-matar-o-incapacitar-muchas-personas-si-se-tocan-se-pisan-o-se-interfiere-con-ellos-de-cualquier-o", 
   "uuid": "cef371a25ce74ee3be0086e4b3b171a6"
