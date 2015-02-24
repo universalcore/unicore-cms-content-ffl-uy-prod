@@ -6,12 +6,12 @@
   "primary_category": "016cd27155064bbe978b857a25a3ac5d", 
   "created_at": "2015-01-04T17:14:43.144951+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-04T17:14:43.145176+00:00", 
+  "modified_at": "2015-02-24T18:27:06.803908+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "cuando-los-ninos-estan-enfermos-deben-ingerir-una-mayor-cantidad-de-liquidos-ademas-hay-que-alentarlos-para-que-coman-periodicamente-los-lactantes-necesitan-amamantarse-mas-menudo-cuando-m", 
   "uuid": "0214e2f0fdbb475183d171cacb4092b7"
