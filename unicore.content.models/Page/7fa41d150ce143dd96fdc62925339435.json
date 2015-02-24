@@ -6,12 +6,12 @@
   "primary_category": "ec4f959214214ddc8612b6d0a6e90060", 
   "created_at": "2015-01-01T21:53:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T17:48:23.745012+00:00", 
+  "modified_at": "2015-02-24T18:21:32.357811+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "los-primeros-os-de-vida-pero-especialmente-los-tres-primeros-son-de-suma-importancia-para-el-desarrollo-del-cerebrotodo-lo-que-el-nino-ve-toca-saborea-oye-o-huele-moldea-su-cerebro-para-perm", 
   "uuid": "7fa41d150ce143dd96fdc62925339435"
