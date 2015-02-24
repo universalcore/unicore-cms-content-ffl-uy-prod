@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "016cd27155064bbe978b857a25a3ac5d", 
   "language": "spa_ES", 
-  "title": "La nutricio\u0301n y el crecimiento", 
+  "title": "La nutrici\u00f3n y el crecimiento", 
   "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "la-nutricion-y-el-crecimiento", 
