@@ -6,12 +6,12 @@
   "primary_category": "c2475be24aad4e6fadd7bb8e80135ee2", 
   "created_at": "2015-01-04T18:25:28+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T13:00:28.853175+00:00", 
+  "modified_at": "2015-02-26T13:00:38.829219+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "si-un-nino-o-nin-tiene-tos-deberemos-mantenerle-abrigado-y-animarle-que-coma-y-beba-tanto-como-sea-posible", 
   "uuid": "087addfcebed4f21b2d61d71b9331a1a"
