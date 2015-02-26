@@ -6,12 +6,12 @@
   "primary_category": "d54cc05a9ab94ef3a04d145353093040", 
   "created_at": "2015-02-24T20:38:58.761561+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T21:00:47.631106+00:00", 
+  "modified_at": "2015-02-26T12:49:49.049257+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "la-inmunizacion-protege-contra-varias-enfermedades-peligrosas-los-ninos-que-no-estan-vacunados-tienen-mas-probabilidades-de-enfermarse-de-estar-desnutridos-de-sufrir-una-discapacidad-permanente-e", 
   "uuid": "1b540f2adfda473ea2455344f02f97ee"
