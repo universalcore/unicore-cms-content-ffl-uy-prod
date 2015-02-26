@@ -6,12 +6,12 @@
   "primary_category": "c2475be24aad4e6fadd7bb8e80135ee2", 
   "created_at": "2015-01-04T18:28:23.355416+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:39:03.017005+00:00", 
+  "modified_at": "2015-02-26T13:00:29.023453+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "veces-la-tos-es-sintoma-de-un-problema-grave-un-nino-o-nin-que-respire-agitadamente-o-con-dificultad-podri-padecer-neumoni-una-infeccion-de-los-pulmones-la-neumoni-es-una-enfermedad-mu", 
   "uuid": "bc88e5c896e649f297688a8a7d408a3f"
