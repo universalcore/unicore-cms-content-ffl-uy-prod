@@ -6,12 +6,12 @@
   "primary_category": "d54cc05a9ab94ef3a04d145353093040", 
   "created_at": "2015-02-24T20:34:26.634492+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T21:00:47.741259+00:00", 
+  "modified_at": "2015-02-26T12:49:48.942976+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "la-inmunizacion-es-una-medida-urgente-todos-los-ninos-deben-completar-el-calendario-de-vacunacion-recomendado-es-fundamental-proteger-los-ninos-de-manera-temprana-no-obstante-la-vacunacion-en-lo", 
   "uuid": "3b6aa2841653407084eefbde5e23b3f0"
