@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "c8f7611c01274001a863fbc6c0b3b216", 
+  "language": "spa_ES", 
+  "title": "La prevenci\u00f3n de lesiones", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "la-prevencion-de-lesiones", 
+  "source": null, 
+  "position": 12, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}

@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "A medida que aumenta la ingesta de alimentos y bebidas, tambie\u0301n aumenta considerablemente el riesgo de diarrea. Los alimentos contaminados con ge\u0301rmenes son una de las causas primordiales de diarrea y otras enfermedades que provocan pe\u0301rdida de energi\u0301a y nutrientes necesarios para el crecimiento y el desarrollo de los nin\u0303os. Los buenos ha\u0301bitos de higiene y el agua apta para el consumo son definitivos para prevenir las enfermedades, asi\u0301 como tambie\u0301n manipular, preparar y almacenar los alimentos de una forma apropiada.", 
+  "language": "spa_ES", 
+  "title": "A medida que aumenta la ingesta de alimentos y bebidas, tambie\u0301n aumenta considerablemente el riesgo de diarrea. Los alimentos contaminados con ge\u0301rmenes son una de las causas primordiales de diarrea", 
+  "primary_category": "016cd27155064bbe978b857a25a3ac5d", 
+  "created_at": "2015-01-04T17:13:08.362041+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:27:06.956607+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A medida que crecen, y en su esfuerzo por explorar y descubrir el mundo que los rodea, los nin\u0303os se introducen todo en la boca. Esto significa que recogen ge\u0301rmenes con facilidad, obligando a los progenitores y cuidadores a observar buenos ha\u0301bitos de higiene, como el lavado de las manos con jabo\u0301n.Tambie\u0301n deben manipular y preparar los alimentos en condiciones adecuadas de higiene, utilizar agua salubre y mantener limpio el medio vital.Todas estas medidas son decisivas para prevenir la diarrea y otras enfermedades, y para preservar la salud de los nin\u0303os.\r\n\r\nEs aconsejable servir los alimentos inmediatamente despue\u0301s de prepararlos y conservar cuidadosamente la comida sobrante. Las superficies y los utensilios para preparar y servir los alimentos deben permanecer limpios. Los nin\u0303os deben recibir sus alimentos en tazas o tazones limpios. No conviene utilizar biberones porque, al igual que las tetinas, son difi\u0301ciles de mantener limpios.\r\n\r\nHay cinco maneras de conservar la comida en buen estado: mantenerla limpia, separar los alimentos crudos de los cocidos, cocinar los alimentos completamente, mantenerlos a una temperatura segura y lavar los alimentos crudos con agua salubre.\r\n\r\n*(Para mayor informacio\u0301n, remitirse al capi\u0301tulo sobre la higiene.)*", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 7, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "medida-que-aumenta-la-ingesta-de-alimentos-y-bebidas-tambien-aumenta-considerablemente-el-riesgo-de-diarrea-los-alimentos-contaminados-con-germenes-son-una-de-las-causas-primordiales-de-diarrea", 
+  "uuid": "b702dd0df5eb4b239a4b56cc9705d401"
+}

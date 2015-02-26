@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "El sarampio\u0301n, la diarrea, la neumoni\u0301a, el paludismo, la desnutricio\u0301n y las complicaciones neonatales son causas importantes de muerte infantil, en particular durante las situaciones de emergencia.", 
+  "language": "spa_ES", 
+  "title": "El sarampio\u0301n, la diarrea, la neumoni\u0301a, el paludismo, la desnutricio\u0301n y las complicaciones neonatales son causas importantes de muerte infantil, en particular durante las situaciones de emergencia.", 
+  "primary_category": "5f8b0bde4c0b41259dae1fde11f4bd34", 
+  "created_at": "2015-01-05T15:56:11.070913+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:59:02.078427+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Las enfermedades infecciosas se propagan fa\u0301cilmente en el hacinamiento de las situaciones de emergencia. Para disminuir los riesgos:\r\n\r\n - cercio\u0301rese de que se inmuniza debidamente en el primer punto de contacto o asentamiento a todos los nin\u0303os y nin\u0303as de entre 6 meses y 15 an\u0303os de edad, en especial contra el sarampio\u0301n\r\n - no deje de buscar servicios de atencio\u0301n sanitaria para evitar y tratar las enfermedades.\r\n\r\n*(Consulte los capi\u0301tulos sobre Maternidad sin riesgos y salud del recie\u0301n nacido, Inmunizaciones,Tos, resfriados y otras enfermedades ma\u0301s graves, y Paludismo.)*\r\n\r\nLa desnutricio\u0301n es ma\u0301s habitual en las situaciones de emergencia debido a la escasez de alimentos, al aumento de las enfermedades, y a la interrupcio\u0301n de las pra\u0301cticas de atencio\u0301n. Por ello es importante velar por que los nin\u0303os y nin\u0303as:\r\n\r\n - tomen el pecho y reciban cantidades adecuadas de bebidas y alimentos nutritivos apropiados para su edad\r\n - reciban suplementos de micronutrientes adema\u0301s de alimentos reforzados.\r\n\r\nEs necesario llevar a los nin\u0303os y nin\u0303as que este\u0301n muy delgados o hinchados (por lo general se les hinchan los pies y las piernas) a que les vea un trabajador sanitario o a un centro de atencio\u0301n sanitaria a fin de que se valore de inmediato su estado, se les administre un tratamiento y se les haga el seguimiento pertinente.\r\n\r\n*(Consulte los capi\u0301tulos sobre Lactancia materna y Nutricio\u0301n y crecimiento.)*\r\n\r\nEn las situaciones de emergencia, la falta de agua potable, saneamiento e higiene puede ocasionar enfermedades que podri\u0301an derivar en una epidemia. Cuando el saneamiento es deficiente y hay hacinamiento, puede sobrevenir el co\u0301lera. E\u0301stas son algunas de las medidas ba\u0301sicas que pueden adoptarse:\r\n\r\n - lavarse las manos con frecuencia con agua y jabo\u0301n o un sustituto como agua y ceniza\r\n - desechar las heces y la basura de forma segura\r\n - emplear me\u0301todos seguros a la hora de preparar alimentos\r\n - emplear fuentes de agua segura o aplicar me\u0301todos de tratamiento dome\u0301stico del agua, como hervirla, filtrarla, an\u0303adirle leji\u0301a o desinfectarla exponie\u0301ndola a la luz del sol\r\n - almacenar el agua potable en recipientes limpios y tapados.\r\n\r\n*(Consulte los capi\u0301tulos sobre Higiene y Diarrea)*", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "el-sarampion-la-diarrea-la-neumoni-el-paludismo-la-desnutricion-y-las-complicaciones-neonatales-son-causas-importantes-de-muerte-infantil-en-particular-durante-las-situaciones-de-emergencia", 
+  "uuid": "abe2bbd3889c4317a27afe1710f3f58d"
+}

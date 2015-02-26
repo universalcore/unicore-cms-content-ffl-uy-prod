@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "En condiciones de hacinamiento, las enfermedades se propagan a gran velocidad. Todos los ni\u00f1os y las ni\u00f1as que viven en estas condiciones, sobre todo si son refugiados o han sufrido un desastre, deben ser inmunizados de inmediato, especialmente contra el sarampi\u00f3n.", 
+  "language": "spa_ES", 
+  "title": "En condiciones de hacinamiento, las enfermedades se propagan a gran velocidad. Todos los ni\u00f1os y las ni\u00f1as que viven en estas condiciones, sobre todo si son refugiados o han sufrido un desastre, de", 
+  "primary_category": null, 
+  "created_at": "2015-01-04T17:28:22+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-07T10:16:44.836837+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Las situaciones de emergencia que fuerzan a la gente a huir de sus hogares muchas veces favorecen la propagaci\u00f3n de enfermedades transmisibles. Por este motivo, todos los ni\u00f1os desplazados menores de 15 a\u00f1os deben ser inmunizados de inmediato, especialmente contra el sarampi\u00f3n, en el primer punto de contacto o asentamiento.\r\n\r\nEl sarampi\u00f3n es a\u00fan m\u00e1s grave para los ni\u00f1os que sufren de malnutrici\u00f3n o que viven en condiciones inadecuadas de saneamiento.\r\n\r\n - Algunas enfermedades, como el sarampi\u00f3n, se propagan a gran velocidad. Un ni\u00f1o con sarampi\u00f3n debe mantenerse alejado de los dem\u00e1s ni\u00f1os, ser examinado por un agente sanitario capacitado y recibir una dosis alta de vitamina A.\r\n - Cuando se produce un brote de sarampi\u00f3n en alguna zona, es forzoso vacunar a los ni\u00f1os. Se debe alertar a las comunidades vecinas para que hagan lo propio.\r\n\r\nSi los servicios peri\u00f3dicos de vacunaci\u00f3n quedan interrumpidos, hay que acudir a un trabajador sanitario capacitado para completar el esquema de vacunaci\u00f3n, de conformidad con las directrices nacionales. Si la cartilla de vacunaci\u00f3n del ni\u00f1o se perdi\u00f3 y los progenitores no recuerdan qu\u00e9 vacunas le han administrado, se deben repetir las dosis, teniendo en cuenta que esto no conlleva riesgo alguno.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 65, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "en-condiciones-de-hacinamiento-las-enfermedades-se-propagan-gran-velocidad-todos-los-ninos-y-las-nin-que-viven-en-estas-condiciones-sobre-todo-si-son-refugiados-o-han-sufrido-un-desastre-de", 
+  "uuid": "0c6ee272a5134c59b8d2a1da1e3e093c"
+}

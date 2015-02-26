@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "016cd27155064bbe978b857a25a3ac5d", 
+  "language": "spa_ES", 
+  "title": "La nutrici\u00f3n y el crecimiento", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "la-nutricion-y-el-crecimiento", 
+  "source": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}

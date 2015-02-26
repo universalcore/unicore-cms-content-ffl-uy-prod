@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Los riesgos para la salud asociados con la maternidad se incrementan cuando la mujer ha tenido muchos embarazos.", 
+  "language": "spa_ES", 
+  "title": "Los riesgos para la salud asociados con la maternidad se incrementan cuando la mujer ha tenido muchos embarazos.", 
+  "primary_category": "90b731c7f82f4d87afd7f0da83b20d18", 
+  "created_at": "2014-12-26T13:42:03.319496+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:18:06.968415+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "El organismo de la mujer se resiente luego de varios embarazos y partos, y a consecuencia del esfuerzo que implica la atencio\u0301n de los nin\u0303os pequen\u0303os. Despue\u0301s de muchos embarazos, la mujer afronta un riesgo ma\u0301s elevado de sufrir problemas graves de salud, como anemia y hemorragias.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "los-riesgos-para-la-salud-asociados-con-la-maternidad-se-incrementan-cuando-la-mujer-ha-tenido-muchos-embarazos", 
+  "uuid": "3ba78cf18c3e4bfd8736e68bc69bae3a"
+}

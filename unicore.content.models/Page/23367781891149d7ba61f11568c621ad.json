@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Los cuchillos, tijeras, objetos afilados o con punta, y los cristales rotos pueden ocasionar lesiones graves. Estos objetos debera\u0301n mantenerse fuera del alcance de los nin\u0303os y nin\u0303as. Las bolsas de pla\u0301stico, que pueden ocasionar asfixia, deben mantenerse lejos de los nin\u0303os y nin\u0303as de corta edad.", 
+  "language": "spa_ES", 
+  "title": "Los cuchillos, tijeras, objetos afilados o con punta, y los cristales rotos pueden ocasionar lesiones graves. Estos objetos debera\u0301n mantenerse fuera del alcance de los nin\u0303os y nin\u0303as. Las bolsas de ", 
+  "primary_category": "c8f7611c01274001a863fbc6c0b3b216", 
+  "created_at": "2015-01-05T15:16:38.120800+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:51:21.121413+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Los cristales rotos pueden ocasionar cortes graves, hemorragias y heridas infectadas. Los objetos de metal afilados, las herramientas y las latas oxidadas pueden causar heridas que podri\u0301an infectarse gravemente.\r\n\r\n**Estas son algunas de las medidas que las familias pueden adoptar para reducir el riesgo de que un nin\u0303o o nin\u0303a se lesione con cristales u objetos afilados:**\r\n\r\n - mantener las botellas de cristal fuera del alcance de los nin\u0303os y nin\u0303as, y mantener el hogar y las zonas de juego libres de cristales rotos y basura\r\n - guardar los cuchillos, cuchillas y tijeras en cajones o armarios cerrados con llave, totalmente fuera del alcance de los nin\u0303os y nin\u0303as de corta edad\r\n - desechar de forma segura toda la basura del hogar, en especial las botellas rotas y las latas viejas.\r\n\r\nPuede evitarse que ocurran otras lesiones en el entorno del hogar educando a los nin\u0303os y nin\u0303as acerca del peligro de lanzar piedras y otros objetos afilados y de jugar con cuchillos y tijeras.\r\n\r\nLas bolsas de pla\u0301stico deben mantenerse fuera del alcance de los nin\u0303os y nin\u0303as pequen\u0303os para evitar que se asfixien.\r\n\r\n*Si desea orientacio\u0301n sobre primeros auxilios en el caso de cortes y heridas, consulte el final de este capi\u0301tulo.*", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "los-cuchillos-tijeras-objetos-afilados-o-con-punta-y-los-cristales-rotos-pueden-ocasionar-lesiones-graves-estos-objetos-deberan-mantenerse-fuera-del-alcance-de-los-ninos-y-nin-las-bolsas-de", 
+  "uuid": "23367781891149d7ba61f11568c621ad"
+}

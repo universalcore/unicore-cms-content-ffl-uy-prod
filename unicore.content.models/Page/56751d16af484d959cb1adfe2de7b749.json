@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Es necesario que todos los miembros de la familia, en especial los nin\u0303os y nin\u0303as, se laven las manos a conciencia con agua y jabo\u0301n despue\u0301s de haber estado en contacto con heces, antes de manipular o preparar alimentos y antes de alimentar a los nin\u0303os y nin\u0303as. Si no se dispone de jabo\u0301n, puede emplearse agua y ceniza como sustituto.", 
+  "language": "spa_ES", 
+  "title": "Es necesario que todos los miembros de la familia, en especial los nin\u0303os y nin\u0303as, se laven las manos a conciencia con agua y jabo\u0301n despue\u0301s de haber estado en contacto con heces, antes de manipular", 
+  "primary_category": "5c1cd66262c948baa97e0d35235bb2c4", 
+  "created_at": "2015-01-04T18:37:10.728692+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:40:06.994424+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "El lavado de las manos con agua y jabo\u0301n elimina los ge\u0301rmenes. Mojarse los dedos con agua no es suficiente: es necesario frotarse ambas manos con agua y jabo\u0301n y despue\u0301s aclararlas con agua. Esto ayuda a impedir que los ge\u0301rmenes y la suciedad pasen a la boca. Lavarse las manos tambie\u0301n puede evitar infecciones de lombrices. Es conveniente disponer agua y jabo\u0301n cerca de la letrina o retrete. De no haber jabo\u0301n, puede emplearse agua y ceniza.\r\n\r\n - Es especialmente importante lavarse las manos con jabo\u0301n despue\u0301s de defecar\r\no de limpiar a un bebe\u0301 o un nin\u0303o o nin\u0303a que acaba de defecar. Asimismo, es importante lavarse las manos despue\u0301s de manipular animales y alimentos crudos.\r\n - Las manos deberi\u0301an lavarse siempre antes de preparar, servir o ingerir alimentos, y antes de alimentar a los nin\u0303os y nin\u0303as. Deberi\u0301a ensen\u0303arse a los nin\u0303os y nin\u0303as\r\na lavarse las manos, frotando una contra otra con jabo\u0301n, despue\u0301s de defecar y antes de comer, lo que ayuda a protegerles contra la enfermedad.\r\n\r\nLos nin\u0303os y nin\u0303as a menudo se meten las manos en la boca, de modo que es importante que se laven las manos a menudo, en especial despue\u0301s de haber estado jugando con tierra o animales. Es tambie\u0301n importante lavarles el cuerpo a fin de evitar infecciones en la piel.\r\n\r\nLos nin\u0303os y nin\u0303as contraen lombrices con facilidad, que despojan su cuerpo de nutrientes. Las lombrices y sus huevos pueden hallarse en las heces y en la orina de personas y animales, en las aguas y tierras superficiales y en la carne poco cocinada.\r\n\r\n - Los nin\u0303os y nin\u0303as no deberi\u0301an jugar cerca de las letrinas o retretes o de las zonas donde se defeca. Debera\u0301n usarse sandalias o zapatos en las inmediaciones de las letrinas a fin de evitar que las lombrices penetren en el cuerpo a trave\u0301s de la piel de los pies.\r\n - Los nin\u0303os y nin\u0303as que vivan en zonas en las que las lombrices son habituales debera\u0301n recibir tratamiento con un medicamento para eliminar los para\u0301sitos entre dos y tres veces al an\u0303o.\r\n\r\nLavarse las manos con agua y jabo\u0301n despue\u0301s de manipular aves de corral o productos avi\u0301colas, de tocar huevos y carne cruda, y de limpiar las zonas en las que se guardan las aves de corral, tambie\u0301n puede contribuir a prevenir la propagacio\u0301n de ge\u0301rmenes y de la gripe aviar.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "es-necesario-que-todos-los-miembros-de-la-familia-en-especial-los-ninos-y-nin-se-laven-las-manos-conciencia-con-agua-y-jabon-despues-de-haber-estado-en-contacto-con-heces-antes-de-manipular", 
+  "uuid": "56751d16af484d959cb1adfe2de7b749"
+}

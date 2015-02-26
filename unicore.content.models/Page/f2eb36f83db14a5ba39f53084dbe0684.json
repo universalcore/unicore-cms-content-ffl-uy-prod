@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Un ni\u00f1o o ni\u00f1a enfermo o convaleciente de paludismo necesita l\u00edquido y alimentos\r\nen abundancia.", 
+  "language": "spa_ES", 
+  "title": "Un ni\u00f1o o ni\u00f1a enfermo o convaleciente de paludismo necesita l\u00edquido y alimentos en abundancia.", 
+  "primary_category": "68c265ad068f4049ad4a208dbc81660b", 
+  "created_at": "2015-02-24T20:04:22.176964+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T20:06:08.525089+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Los ni\u00f1os o ni\u00f1as que padezcan paludismo deber\u00e1n tomar l\u00edquidos y alimentos con\r\nfrecuencia a fin de evitar la deshidrataci\u00f3n y la desnutrici\u00f3n.\r\n\r\nAmamantarles con frecuencia previene la deshidrataci\u00f3n y ayuda al beb\u00e9 a combatir\r\nlas infecciones, entre ellas el paludismo. Los ni\u00f1os y ni\u00f1as lactantes que padecen\r\npaludismo deber\u00edan lactar tan a menudo como sea posible.\r\n\r\nLas infecciones frecuentes por paludismo pueden ocasionar anemia. Deber\u00e1n\r\nrealizarse pruebas de anemia a los ni\u00f1os y ni\u00f1as que hayan padecido paludismo en\r\nvarias ocasiones.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "un-nino-o-nina-enfermo-o-convaleciente-de-paludismo-necesita-liquido-y-alimentos-en-abundancia", 
+  "uuid": "f2eb36f83db14a5ba39f53084dbe0684"
+}

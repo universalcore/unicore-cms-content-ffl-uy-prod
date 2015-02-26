@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Nosotros", 
+  "language": "spa_ES", 
+  "title": "Nosotros", 
+  "primary_category": null, 
+  "created_at": "2015-01-06T08:53:57+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-26T10:39:05.309352+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "\u201cPara la Vida\u201d brinda informaci\u00f3n esencial para la prevenci\u00f3n de enfermedades y la protecci\u00f3n de ni\u00f1as y ni\u00f1os.\r\n  \r\nCada a\u00f1o casi 9 millones de ni\u00f1os y ni\u00f1as menores de cinco a\u00f1os mueren a causa de enfermedades que se habr\u00edan podido evitar; m\u00e1s de dos tercios no llegan a cumplir un a\u00f1o de edad. Millones de ni\u00f1os y ni\u00f1as m\u00e1s sobreviven sin posibilidades de tener una vida prospera y feliz ni de desarrollarse plenamente. La mitad de todas las muertes de ni\u00f1os menores de cinco a\u00f1os se deben a cinco enfermedades: neumon\u00eda, diarrea, paludismo, sarampi\u00f3n y SIDA. La desnutrici\u00f3n contribuye a m\u00e1s de un tercio de estas muertes.\r\n\r\nPero es posible salvar vidas y reducir notablemente el sufrimiento humano, ampliando la cobertura de tratamientos y las medidas de prevenci\u00f3n y protecci\u00f3n. La dificultad est\u00e1 en llevar esta informaci\u00f3n a los padres y cuidadores de los ni\u00f1os y ni\u00f1as y a las comunidades responsables de proteger a los ni\u00f1os contra las enfermedades y los riesgos.\r\n\r\nPara la Vida es un recurso fundamental para quienes m\u00e1s lo necesitan. Brinda informaci\u00f3n esencial para prevenir las muertes maternas e infantiles, las enfermedades, las lesiones y la violencia contra los ni\u00f1os y ni\u00f1as.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 14, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "about", 
+  "uuid": "fef1b1e90bb846d38ff01450c5133447"
+}

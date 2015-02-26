@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Los alimentos, los utensilios y las superficies de preparacio\u0301n deberi\u0301an mantenerse limpios y alejados de los animales. Los alimentos debera\u0301n guardarse en recipientes tapados.", 
+  "language": "spa_ES", 
+  "title": "Los alimentos, los utensilios y las superficies de preparacio\u0301n deberi\u0301an mantenerse limpios y alejados de los animales. Los alimentos debera\u0301n guardarse en recipientes tapados.", 
+  "primary_category": "5c1cd66262c948baa97e0d35235bb2c4", 
+  "created_at": "2015-01-04T20:19:34.188361+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:40:06.353939+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Los ge\u0301rmenes presentes en los alimentos pueden ingerirse y causar enfermedades. Para proteger los alimentos contra los ge\u0301rmenes:\r\n\r\n - mantenga limpias las superficies de preparacio\u0301n de alimentos\r\n - mantenga los cuchillos, utensilios de cocina, cazuelas y platos limpios y tapados\r\n - lave bien, todos los di\u0301as, los trapos empleados para limpiar los platos y de\u0301jelos secar al sol. Lave los platos, utensilios y cazuelas inmediatamente despue\u0301s de comer y po\u0301ngalos a secar en un estante\r\n - guarde los alimentos en recipientes limpios y tapados a fin de protegerlos de insectos y animales\r\n - no emplee biberones ni tetinas, dado que pueden contener ge\u0301rmenes que causan diarrea. Amamante a los nin\u0303os y nin\u0303as o alime\u0301nteles empleando para ello una taza limpia y de boca ancha. Si empleara biberones o tetinas, li\u0301mpielos con agua hirviendo despue\u0301s de cada uso.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "los-alimentos-los-utensilios-y-las-superficies-de-preparacion-deberi-mantenerse-limpios-y-alejados-de-los-animales-los-alimentos-deberan-guardarse-en-recipientes-tapados", 
+  "uuid": "e4c0193492a44506a195b3f46e982694"
+}

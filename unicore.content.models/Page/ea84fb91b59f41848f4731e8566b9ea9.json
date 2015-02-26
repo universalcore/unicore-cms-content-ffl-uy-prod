@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Una epidemia (o un brote) de enfermedad puede ocasionar una situacio\u0301n de emergencia debido a la gravedad de la enfermedad o a la reaccio\u0301n ante e\u0301sta. En el caso de la gripe pande\u0301mica y otras enfermedades que se propagan mediante el contacto personal cercano, es preciso mantener a las personas que esta\u0301n enfermas alejadas del resto.", 
+  "language": "spa_ES", 
+  "title": "Una epidemia (o un brote) de enfermedad puede ocasionar una situacio\u0301n de emergencia debido a la gravedad de la enfermedad o a la reaccio\u0301n ante e\u0301sta. En el caso de la gripe pande\u0301mica y otras enferm", 
+  "primary_category": "5f8b0bde4c0b41259dae1fde11f4bd34", 
+  "created_at": "2015-01-05T16:00:13.424197+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:59:01.965896+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "La repercusio\u0301n de un brote de enfermedad depende de la gravedad de e\u0301sta, pero tambie\u0301n de la intervencio\u0301n de los gobiernos, las comunidades y las personas.\r\n\r\nLas pandemias de gripe, ocasionadas por un virus nuevo, pueden diseminarse ra\u0301pidamente en poblaciones que tengan poca o ninguna inmunidad frente al mismo. Puede tratarse de una gripe moderada o grave dependiendo de los si\u0301ntomas y las muertes que ocasiona, y es posible que surjan repetidos brotes a lo largo del tiempo. El grado de gravedad puede ser imprevisible, variando en el transcurso de la pandemia. Por lo general la repercusio\u0301n de estas gripes es mucho mayor que la de los brotes de gripe estacional.\r\n\r\nLa gripe anual o estacional ocasiona la mayori\u0301a de las muertes en personas de ma\u0301s de 65 an\u0303os. Las pandemias de gripe causan si\u0301ntomas ma\u0301s graves y ma\u0301s muertes en los grupos de menos edad.Tanto en el caso de las gripes estacionales como de las gripes pande\u0301micas, las mujeres embarazadas y los nin\u0303os y nin\u0303as menores de 2 an\u0303os corren un riesgo mayor de sufrir complicaciones y morir. Los nin\u0303os y nin\u0303as de ma\u0301s edad presentan los i\u0301ndices ma\u0301s elevados de infeccio\u0301n, pero no suelen registrar desenlaces graves.\r\n\r\nEntre los si\u0301ntomas de la gripe figuran la fiebre alta, la tos, el dolor de garganta, dolores en el cuerpo, escalofri\u0301os, fatiga, vo\u0301mitos y diarrea. En algunos casos, la gripe puede causar neumoni\u0301a y dificultades respiratorias.\r\n\r\n**Durante los brotes de gripe u otras infecciones pueden adoptarse medidas generales como las siguientes para ayudar a proteger a los nin\u0303os, nin\u0303as y familias:**\r\n\r\n - quedarse en casa si se esta\u0301 enfermo, apartado de los dema\u0301s\r\n - conocer los si\u0301ntomas y sen\u0303ales de peligro, y saber que\u0301 hacer y do\u0301nde acudir en\r\nbusca de ayuda si la enfermedad se agrava\r\n - lavarse las manos con agua y jabo\u0301n a menudo y mantener las superficies limpias\r\n - toser o estornudar cubrie\u0301ndose la cara con el interior del brazo o con un pan\u0303uelo de papel, desecha\u0301ndolo despue\u0301s de forma segura\r\n - no escupir cerca de nin\u0303os y nin\u0303as o en pu\u0301blico.\r\n\r\n**Durante el brote de una infeccio\u0301n de consecuencias graves, es importante limitar el contacto cercano con los dema\u0301s, adoptando medidas como las siguientes:**\r\n\r\n - mantenerse a un metro de distancia como mi\u0301nimo de los dema\u0301s, sobre todo si tosen o estornudan o parecen enfermos\r\n - permanecer en casa tanto como sea posible, evitando las reuniones pu\u0301blicas y los viajes.\r\n\r\nCuando se trata de un brote generalizado, puede ser necesario aislar a algunas personas en un entorno hospitalario para administrarles tratamiento o evitar que la infeccio\u0301n se propague, aunque es posible que muchas personas tengan acceso limitado a la atencio\u0301n sanitaria.\r\n\r\n**Para atender a las personas enfermas y evitar que la infeccio\u0301n se propague en el hogar es conveniente:**\r\n\r\n - destinar un espacio separado en el hogar para las personas enfermas\r\n - asignar un u\u0301nico cuidador a la persona enferma\r\n - administrar li\u0301quidos y alimentos abundantes a la persona enferma.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "una-epidemia-o-un-brote-de-enfermedad-puede-ocasionar-una-situacion-de-emergencia-debido-la-gravedad-de-la-enfermedad-o-la-reaccion-ante-esta-en-el-caso-de-la-gripe-pandemica-y-otras-enferm", 
+  "uuid": "ea84fb91b59f41848f4731e8566b9ea9"
+}

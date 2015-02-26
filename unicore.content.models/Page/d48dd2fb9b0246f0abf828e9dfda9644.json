@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Antes de recibir cualquier vacuna, se debe presentar al agente de salud la cartilla de\r\nvacunaci\u00f3n del ni\u00f1o (o del adulto).", 
+  "language": "spa_ES", 
+  "title": "Antes de recibir cualquier vacuna, se debe presentar al agente de salud la cartilla de vacunaci\u00f3n del ni\u00f1o (o del adulto).", 
+  "primary_category": "d54cc05a9ab94ef3a04d145353093040", 
+  "created_at": "2015-02-24T20:59:01.192453+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-26T13:00:07.275530+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Es importante que el esquema de vacunaci\u00f3n se ajuste a las directrices nacionales.\r\nLos ni\u00f1os deben ser inmunizados a las edades recomendadas, y deben recibir las\r\ndosis posteriores de acuerdo con los intervalos indicados.\r\n\r\nDespu\u00e9s de vacunar a un ni\u00f1o, el trabajador sanitario debe anotar qu\u00e9 vacuna aplic\u00f3,\r\nla dosis (primera, segunda, etc.) y la fecha, en la cartilla de inmunizaci\u00f3n o ficha\r\nde salud infantil en poder de los progenitores o cuidadores. Tambi\u00e9n debe dejar\r\nregistrados esos datos en el centro de salud. Los progenitores deben conservar la\r\ncartilla (o la ficha) y presentarla durante la siguiente cita de vacunaci\u00f3n. Esto permite\r\na los agentes de salud saber qu\u00e9 vacunas ha recibido el ni\u00f1o y en qu\u00e9 fechas, e\r\ninformar a los progenitores o cuidadores cu\u00e1les no se administraron oportunamente\r\ny cu\u00e1les se deber\u00e1n aplicar m\u00e1s adelante.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "antes-de-recibir-cualquier-vacuna-se-debe-presentar-al-agente-de-salud-la-cartilla-de-vacunacion-del-nino-o-del-adulto", 
+  "uuid": "d48dd2fb9b0246f0abf828e9dfda9644"
+}

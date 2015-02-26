@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "El VIH (virus de la inmunodeficiencia humana) es el virus que causa el SIDA (s\u00edndrome\r\nde inmunodeficiencia adquirida). Se trata de una afecci\u00f3n prevenible y tratable, aunque\r\nincurable. Las personas pueden infectarse con el VIH por las siguientes v\u00edas: (1) mediante\r\nlas relaciones sexuales sin protecci\u00f3n con una persona infectada por el VIH; (2) por\r\ntransmisi\u00f3n de la madre infectada a su beb\u00e9 durante el embarazo, el parto o la lactancia;\r\ny (3) por contacto con sangre depositada en jeringuillas, agujas u otros instrumentos\r\npunzantes contaminados o a trav\u00e9s de transfusiones con sangre contaminada por el VIH. El\r\nVIH no se transmite a trav\u00e9s de contacto casual ni por otras v\u00edas.", 
+  "language": "spa_ES", 
+  "title": "El VIH (virus de la inmunodeficiencia humana) es el virus que causa el SIDA (s\u00edndrome de inmunodeficiencia adquirida). Se trata de una afecci\u00f3n prevenible y tratable, aunque incurable. Las personas pu", 
+  "primary_category": "96e250d51b0c4a28ade4c73ff556bd3e", 
+  "created_at": "2015-02-24T19:11:56.523621+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-26T12:47:09.095997+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Las personas infectadas por el VIH suelen vivir durante a\u00f1os sin manifestar\r\nning\u00fan s\u00edntoma de la enfermedad. Aunque tengan aspecto saludable y se\r\nsientan bien, pueden transmitir el virus a otras personas. El inicio temprano de la\r\nterapia antirretroviral, un grupo de medicamentos empleados para tratar el VIH,\r\npermite a la persona tratar el VIH como una enfermedad cr\u00f3nica y levar una vida\r\nrelativamente sana. \r\n\r\nEl SIDA es la etapa avanzada de la infecci\u00f3n por VIH. Las personas que padecen\r\nSIDA se debilitan porque sus organismos pierden la capacidad de combatir las\r\nenfermedades. Como promedio, los adultos que no reciben terapia antirretroviral\r\ndesarrollan SIDA entre 7 y 10 a\u00f1os despu\u00e9s de la infecci\u00f3n por VIH; en ni\u00f1os y ni\u00f1as\r\nde corta edad el proceso suele ser mucho m\u00e1s r\u00e1pido. No existe cura para el SIDA,\r\npero los nuevos medicamentos pueden ayudar a que las personas enfermas de SIDA\r\nvivan m\u00e1s a\u00f1os.\r\n\r\nEn la mayor\u00eda de los casos, el VIH se transmite de una persona a otra a trav\u00e9s\r\nde relaciones sexuales sin protecci\u00f3n en las que el semen, los fluidos vaginales\r\no la sangre de una persona infectada entran en contacto con el organismo de\r\notra persona.\r\n\r\nEl VIH tambi\u00e9n puede transmitirse de una persona a otra a trav\u00e9s del uso de agujas\r\ny jeringas no esterilizadas \u2013en especial entre drogadictos que comparten agujas y\r\njeringuillas\u2013, cuchillas de afeitar, cuchillos u otros instrumentos empleados para\r\ninyectarse, cortar o perforar el cuerpo, contaminados con el VIH.\r\n\r\nTambi\u00e9n es posible que las personas adquieran el VIH trav\u00e9s de transfusiones con\r\nsangre contaminada. Toda la sangre destinada a transfusiones deber\u00eda someterse a un\r\ncribado para la detecci\u00f3n del VIH.\r\n\r\nEn el caso de los beb\u00e9s y ni\u00f1os y ni\u00f1as de corta edad, la principal v\u00eda de infecci\u00f3n\r\nes la transmisi\u00f3n materno-infantil durante el embarazo, en el parto o a trav\u00e9s de la\r\nleche materna.\r\n\r\nNo es posible contraer el VIH trabajando, socializando, o conviviendo con personas\r\nportadoras del VIH. La enfermedad no se contrae tocando, abrazando o dando la\r\nmano a una persona portadora del VIH, ni se transmite tosiendo o estornudando. El\r\nVIH no se propaga en los retretes, tel\u00e9fonos, platos, vasos, cubiertos, toallas, s\u00e1banas,\r\npiscinas o ba\u00f1os p\u00fablicos. Los mosquitos u otros insectos no diseminan el VIH.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "el-vih-virus-de-la-inmunodeficiencia-humana-es-el-virus-que-causa-el-sida-sindrome-de-inmunodeficiencia-adquirida-se-trata-de-una-afeccion-prevenible-y-tratable-aunque-incurable-las-personas-pu", 
+  "uuid": "2d8b862096034eae8fcd27242968364e"
+}

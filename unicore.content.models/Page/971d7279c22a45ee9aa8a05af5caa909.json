@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "El paludismo supone un grave peligro para las mujeres embarazadas. Si el paludismo es habitual, es preciso prevenirlo tomando pastillas antipal\u00fadicas prescritas por un trabajador sanitario capacitado, y durmiendo bajo la protecci\u00f3n de un mosquitero tratado con insecticida.", 
+  "language": "spa_ES", 
+  "title": "El paludismo supone un grave peligro para las mujeres embarazadas. Si el paludismo es habitual, es preciso prevenirlo tomando pastillas antipal\u00fadicas prescritas por un trabajador sanitario capacitado", 
+  "primary_category": null, 
+  "created_at": "2015-01-04T20:30:10+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-07T10:19:20.174238+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Las mujeres embarazadas son m\u00e1s proclives que otras mujeres a padecer paludismo. Esta enfermedad es m\u00e1s peligrosa durante el embarazo, en especial si se trata del primero. Ello se debe a los cambios que se producen en el organismo de la mujer, que debilitan el grado de resistencia al paludismo que previamente ten\u00eda. El paludismo puede ocasionar anemia grave (\u201csangre poco espesa\u201d), abortos, partos prematuros o partos mortinatos.\r\n\ufffc\r\nLos beb\u00e9s nacidos de madres que han padecido paludismo durante el embarazo suelen nacer con un peso inferior al normal, lo cual les hace m\u00e1s vulnerables a padecer infecciones o a morir durante su primer a\u00f1o de vida.\r\n\r\nEn las zonas de prevalencia del paludismo, las mujeres que est\u00e1n embarazadas por primera vez no suelen mostrar los s\u00edntomas t\u00edpicos del paludismo.\r\n\r\nComo medida preventiva, las mujeres embarazadas de las zonas en que hay paludismo \u2013en especial las que se encuentran en su primer embarazo, que podr\u00edan ser asintom\u00e1ticas (no presentar s\u00edntomas)\u2013 deber\u00e1n tomar pastillas antipal\u00fadicas durante el segundo y tercer trimestre, siguiendo las recomendaciones de un trabajador sanitario capacitado. El trabajador sanitario capacitado sabr\u00e1 informarle de qu\u00e9 pastillas antipal\u00fadicas son mejores.\r\n\r\nAsimismo es muy importante que las mujeres embarazadas duerman protegidas por un mosquitero tratado con insecticida.\r\n\r\nLas mujeres embarazadas que presenten s\u00edntomas de paludismo por Plasmodium falciparum deber\u00e1n ser tratadas de inmediato por un trabajador sanitario capacitado, con quinina durante el primer trimestre y con terapias combinadas basadas en artemisinina durante el segundo y tercer trimestres.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 40, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "el-paludismo-supone-un-grave-peligro-para-las-mujeres-embarazadas-si-el-paludismo-es-habitual-es-preciso-prevenirlo-tomando-pastillas-antipaludicas-prescritas-por-un-trabajador-sanitario-capacitado", 
+  "uuid": "971d7279c22a45ee9aa8a05af5caa909"
+}

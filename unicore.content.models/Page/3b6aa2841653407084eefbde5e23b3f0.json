@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "La inmunizaci\u00f3n es una medida urgente. Todos los ni\u00f1os deben completar el\r\ncalendario de vacunaci\u00f3n recomendado. Es fundamental proteger a los ni\u00f1os de\r\nmanera temprana; no obstante, la vacunaci\u00f3n en los dos primeros a\u00f1os de vida\r\nreviste una importancia especial. Todos los progenitores y las personas que cuidan a\r\nlos ni\u00f1os deben seguir las instrucciones de un trabajador sanitario calificado sobre el\r\ncalendario de vacunaci\u00f3n.", 
+  "language": "spa_ES", 
+  "title": "La inmunizaci\u00f3n es una medida urgente. Todos los ni\u00f1os deben completar el calendario de vacunaci\u00f3n recomendado. Es fundamental proteger a los ni\u00f1os de manera temprana; no obstante, la vacunaci\u00f3n en lo", 
+  "primary_category": "d54cc05a9ab94ef3a04d145353093040", 
+  "created_at": "2015-02-24T20:34:26.634492+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-26T12:50:17.963249+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Se debe vacunar a los ni\u00f1os temprano en la vida y velar por que los lactantes \u2013ni\u00f1as\r\ny ni\u00f1os\u2013 reciban las vacunas recomendadas en el momento adecuado. Algunas\r\nvacunas requieren varias dosis para brindar una total protecci\u00f3n. Todos los ni\u00f1os y las\r\nni\u00f1as deben completar el esquema de vacunaci\u00f3n.\r\n\r\nProteger al ni\u00f1o durante su primer a\u00f1o de vida, y despu\u00e9s, requiere administrarle las\r\nvacunas que figuran en la siguiente tabla. La eficacia de las vacunas es mayor cuando\r\nse administran a las edades indicadas, o lo m\u00e1s cerca posible de esas edades. \r\n\r\nLas nuevas vacunas se suelen recomendar a todos los pa\u00edses. Sin embargo,\r\nalgunas solamente se necesitan en los pa\u00edses donde se presentan\r\ndeterminadas enfermedades.\r\n\r\nLos progenitores y los trabajadores de la salud deben observar el calendario de\r\nvacunaci\u00f3n recomendado localmente.\r\n\r\nSi un ni\u00f1o tiene m\u00e1s de 1 a\u00f1o y a\u00fan no le han aplicado la serie completa de vacunas,\r\nse le debe inmunizar a la mayor brevedad. Esto se puede hacer en el marco de\r\ncampa\u00f1as especiales de vacunaci\u00f3n.\r\n\r\nEn algunos pa\u00edses se ofrecen dosis suplementarias de vacunas, denominadas\r\n\u201cde refuerzo\u201d, para los ni\u00f1os mayores de 1 a\u00f1o. Estas dosis incrementan la eficacia de\r\nla vacuna; en consecuencia, los ni\u00f1os quedan protegidos durante m\u00e1s tiempo.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-inmunizacion-es-una-medida-urgente-todos-los-ninos-deben-completar-el-calendario-de-vacunacion-recomendado-es-fundamental-proteger-los-ninos-de-manera-temprana-no-obstante-la-vacunacion-en-lo", 
+  "uuid": "3b6aa2841653407084eefbde5e23b3f0"
+}

@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "68c265ad068f4049ad4a208dbc81660b", 
+  "language": "spa_ES", 
+  "title": "El paludismo", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "el-paludismo", 
+  "source": null, 
+  "position": 9, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}

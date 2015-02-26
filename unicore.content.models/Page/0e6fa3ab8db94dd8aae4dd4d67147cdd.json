@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Un nin\u0303o o nin\u0303a que padezca diarrea deberi\u0301a tomar una solucio\u0301n de sales de rehidratacio\u0301n oral y un suplemento diario de zinc durante 10\u201314 di\u0301as. Los medicamentos para la diarrea suelen ser ineficaces y pueden hacerle dan\u0303o.", 
+  "language": "spa_ES", 
+  "title": "Un nin\u0303o o nin\u0303a que padezca diarrea deberi\u0301a tomar una solucio\u0301n de sales de rehidratacio\u0301n oral y un suplemento diario de zinc durante 10\u201314 di\u0301as. Los medicamentos para la diarrea suelen ser inefic", 
+  "primary_category": "ec3b20544ae24910b044adecb8267eef", 
+  "created_at": "2015-01-04T17:41:34.049250+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:31:09.558359+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Con la rehidratacio\u0301n, la diarrea suele remitir por si\u0301 misma en tres o cuatro di\u0301as.\r\nEl verdadero peligro reside en la pe\u0301rdida de li\u0301quidos y nutrientes del organismo del nin\u0303o o nin\u0303a, que puede ocasionar deshidratacio\u0301n y desnutricio\u0301n.\r\n\r\nNunca debera\u0301n administrarse pastillas, antibio\u0301ticos u otros medicamentos a los nin\u0303os o nin\u0303as que padezcan diarrea, salvo que los prescriba un trabajador sanitario capacitado.\r\n\r\nEl mejor tratamiento contra la diarrea consiste en (1) beber abundante li\u0301quido y sales de rehidratacio\u0301n oral bien mezcladas con agua limpia procedente de una fuente segura, y (2) tomar pastillas o jarabe de zinc durante 10\u201314 di\u0301as.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "un-nino-o-nin-que-padezca-diarrea-deberi-tomar-una-solucion-de-sales-de-rehidratacion-oral-y-un-suplemento-diario-de-zinc-durante-1014-di-los-medicamentos-para-la-diarrea-suelen-ser-inefic", 
+  "uuid": "0e6fa3ab8db94dd8aae4dd4d67147cdd"
+}

@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Las cai\u0301das son una de las principales causas de lesiones entre los nin\u0303os y nin\u0303as de corta edad. Es necesario cerciorarse de que las escaleras, balcones, tejados, ventanas y zonas de juego y de descanso sean seguros, empleando barandas con barrotes verticales para evitar que los nin\u0303os y nin\u0303as se caigan.", 
+  "language": "spa_ES", 
+  "title": "Las cai\u0301das son una de las principales causas de lesiones entre los nin\u0303os y nin\u0303as de corta edad. Es necesario cerciorarse de que las escaleras, balcones, tejados, ventanas y zonas de juego y de desc", 
+  "primary_category": "c8f7611c01274001a863fbc6c0b3b216", 
+  "created_at": "2015-01-05T15:11:56.583307+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:51:21.363219+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Los nin\u0303os y nin\u0303as se caen con frecuencia cuando esta\u0301n aprendiendo a andar, a correr y a saltar. Muchas de estas cai\u0301das causan pequen\u0303as raspaduras y magulladuras. En ocasiones las cai\u0301das pueden ocasionar roturas de huesos, lesiones en la cabeza u otras lesiones graves, o incluso la muerte.\r\n\r\nLos bebe\u0301s desatendidos pueden caerse de las camas, cunas o hamacas. Los nin\u0303os y nin\u0303as de corta edad pueden caerse por las escaleras, las ventanas o los balcones.\r\n\r\nA los nin\u0303os y nin\u0303as les gusta encaramarse. Pueden lesionarse gravemente si se caen de un lugar elevado o si intentan subirse encima de un mueble pesado que se les pueda caer encima.\r\n\r\n**Adema\u0301s de la vigilancia, pueden adoptarse algunas medidas para evitar que los nin\u0303os y nin\u0303as sufran cai\u0301das graves. Por ejemplo:**\r\n\r\n - evitar que los nin\u0303os y nin\u0303as se suban a lugares inseguros, desalenta\u0301ndoles a que lo hagan\r\n - no permitir que los nin\u0303os y nin\u0303as jueguen en las escaleras y balcones, y si lo hacen, vigilarles de cerca\r\n - utilizar barandillas de una altura y anchura adecuadas con barrotes verticales en las escaleras, las ventanas o los balcones\r\n - mantener el hogar limpio, bien iluminado y libre de objetos punzantes y filos cortantes\r\n - amarrar debidamente a los bebe\u0301s en las sillas altas para nin\u0303os\r\n - no dejar a los bebe\u0301s desatendidos en camas, cunas, hamacas, o en andadores u otro material para bebe\u0301s\r\n - mantener los muebles como las camas, sillas y cunas lejos de las ventanas\r\n - no colocar juguetes u otros objetos en estantes elevados que puedan atraer la atencio\u0301n de los nin\u0303os y nin\u0303as pequen\u0303os, y asegurar firmemente a la pared los muebles pesados, como los armarios o las estanteri\u0301as.\r\n\r\n*Si desea orientacio\u0301n sobre roturas de huesos, magulladuras o torceduras, consulte el final de este capi\u0301tulo.*", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "las-caidas-son-una-de-las-principales-causas-de-lesiones-entre-los-ninos-y-nin-de-corta-edad-es-necesario-cerciorarse-de-que-las-escaleras-balcones-tejados-ventanas-y-zonas-de-juego-y-de-desc", 
+  "uuid": "f9e931df2cc84a8ca7c98a6d68750861"
+}

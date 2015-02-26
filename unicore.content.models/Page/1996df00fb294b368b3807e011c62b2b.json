@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Los nin\u0303os aprenden a comportarse a nivel social y emocional imitando la conducta de las personas ma\u0301s cercanas a ellos.", 
+  "language": "spa_ES", 
+  "title": "Los nin\u0303os aprenden a comportarse a nivel social y emocional imitando la conducta de las personas ma\u0301s cercanas a ellos.", 
+  "primary_category": "ec4f959214214ddc8612b6d0a6e90060", 
+  "created_at": "2015-01-01T22:12:11.318978+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T18:21:32.035041+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Los nin\u0303os de corta edad aprenden a comportarse socialmente observando e imitando a las dema\u0301s personas. De esta forma aprenden estilos de comportamiento aceptables e inaceptables.\r\n\r\nEl ejemplo de los adultos, los hermanos y las hermanas mayores y los dema\u0301s nin\u0303os influye poderosamente en el comportamiento y la personalidad del nin\u0303o. Una de las maneras como los nin\u0303os aprenden es imitando a los dema\u0301s. Si los hombres\r\ny las mujeres no se tratan de la misma manera, el nin\u0303o se da cuenta, aprende y, probablemente, repetira\u0301 esa conducta. Si los adultos gritan, actu\u0301an con violencia, excluyen o discriminan a otras personas, los nin\u0303os aprenden esta clase de conductas. Si los adultos tratan a los dema\u0301s con amabilidad, respeto y paciencia, los nin\u0303os siguen ese ejemplo. Si las madres y los padres se tratan con amor y respeto, sus hijos aprenden este tipo de comportamiento y, probablemente, lo pondra\u0301n en pra\u0301ctica en sus relaciones adultas.\r\n\r\nA los nin\u0303os les gusta inventar historias. Esto se debe alentar, ya que desarrolla su imaginacio\u0301n y su creatividad, y les ayuda a entender las distintas maneras en que la gente se comporta.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "los-ninos-aprenden-comportarse-nivel-social-y-emocional-imitando-la-conducta-de-las-personas-mas-cercanas-ellos", 
+  "uuid": "1996df00fb294b368b3807e011c62b2b"
+}

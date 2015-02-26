@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Se debe utilizar una jeringa nueva para cada persona que se vacuna, y todo el mundo debe exigir que este requisito se cumpla.", 
+  "language": "spa_ES", 
+  "title": "Se debe utilizar una jeringa nueva para cada persona que se vacuna, y todo el mundo debe exigir que este requisito se cumpla.", 
+  "primary_category": null, 
+  "created_at": "2015-01-04T17:26:54+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-07T10:16:56.840125+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Compartir jeringas y agujas, incluso con miembros de la propia familia, puede propagar enfermedades que a veces son mortales. Por eso, debe utilizarse una jeringa nueva por cada persona que se vacuna.\r\n\r\nEn cualquier contexto, incluyendo las situaciones de emergencia, las vacunas se deben aplicar con jeringas descartables; es decir, jeringas que solamente se pueden usar una vez.\r\n\r\nLos progenitores y quienes cuidan a los ni\u00f1os deben exigir que se utilice una jeringa nueva para cada vacuna. Por su parte, los trabajadores de la salud deben desechar, en condiciones de seguridad e higiene, las jeringas y todo el material sobrante.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 66, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "se-debe-utilizar-una-jeringa-nueva-para-cada-persona-que-se-vacuna-y-todo-el-mundo-debe-exigir-que-este-requisito-se-cumpla", 
+  "uuid": "f4c02e4e8e064df587dc338f428092dd"
+}

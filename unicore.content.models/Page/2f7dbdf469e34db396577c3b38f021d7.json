@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Un nin\u0303o o nin\u0303a con una tos continua que persiste ma\u0301s de tres semanas precisa atencio\u0301n me\u0301dica de inmediato. Podri\u0301a tener tuberculosis, una infeccio\u0301n de los pulmones.", 
+  "language": "spa_ES", 
+  "title": "Un nin\u0303o o nin\u0303a con una tos continua que persiste ma\u0301s de tres semanas precisa atencio\u0301n me\u0301dica de inmediato. Podri\u0301a tener tuberculosis, una infeccio\u0301n de los pulmones.", 
+  "primary_category": "c2475be24aad4e6fadd7bb8e80135ee2", 
+  "created_at": "2015-01-04T18:30:27.169459+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-26T13:00:29.273761+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "La tuberculosis es una enfermedad grave que puede matar a un nin\u0303o o nin\u0303a o causarle un dan\u0303o permanente en los pulmones. Las familias y cuidadores pueden contribuir a prevenir la tuberculosis asegura\u0301ndose de que los nin\u0303os y nin\u0303as:\r\n\r\n - este\u0301n totalmente inmunizados: la vacuna BCG ofrece cierta proteccio\u0301n contra algunas formas de tuberculosis\r\n - se mantengan alejados de cualquier persona que tenga tuberculosis o que tosa esputos con sangre.\r\n\r\nSi un trabajador sanitario capacitado prescribe una medicina especial para la tuberculosis, es importante acabar de da\u0301rsela entera al nin\u0303o o nin\u0303a siguiendo las instrucciones. Debe cumplirse el plazo especificado, aunque el nin\u0303o o nin\u0303a parezca estar mejor; de lo contrario, podri\u0301a desarrollar una resistencia al medicamento, lo que reduciri\u0301a su eficacia la pro\u0301xima vez que se emplee.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "un-nino-o-nin-con-una-tos-continua-que-persiste-mas-de-tres-semanas-precisa-atencion-medica-de-inmediato-podri-tener-tuberculosis-una-infeccion-de-los-pulmones", 
+  "uuid": "2f7dbdf469e34db396577c3b38f021d7"
+}

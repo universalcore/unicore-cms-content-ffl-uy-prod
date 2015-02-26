@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "5f8b0bde4c0b41259dae1fde11f4bd34", 
+  "language": "spa_ES", 
+  "title": "Las situaciones de emergencia: preparaci\u00f3n y respuesta", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "las-situaciones-de-emergencia-preparacion-y-respuesta", 
+  "source": null, 
+  "position": 13, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
