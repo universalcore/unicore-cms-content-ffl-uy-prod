@@ -6,12 +6,12 @@
   "primary_category": "96e250d51b0c4a28ade4c73ff556bd3e", 
   "created_at": "2015-01-04T20:53:26.784799+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:46:58.937241+00:00", 
+  "modified_at": "2015-02-26T12:47:11.941823+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "los-progenitores-maestros-dirigentes-de-grupos-y-otros-modelos-de-conducta-deberi-proveer-un-entorno-seguro-para-los-adolescentes-y-aportarles-una-serie-de-tecnicas-de-vida-que-les-ayuden-toma", 
   "uuid": "c91171c0dd514ca187a46a258f5d0616"
